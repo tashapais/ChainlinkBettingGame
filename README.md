@@ -1,3 +1,4 @@
-# A Decentralized Betting Game Powered by Chainlink's Randomness
+### ```"A Decentralized Betting Game powered by Chainlink Randomness."```
 
-![image](https://user-images.githubusercontent.com/32210691/146324460-3a110da8-eefc-4f85-a1cb-830b66aa6e42.png)
+### 🔧 Project Diagram
+![Project workflow](https://i.gyazo.com/0d76efbda6fce78509eabb1f68c928da.png)
